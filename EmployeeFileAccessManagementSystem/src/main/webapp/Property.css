@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #E7BE77;
+}
+
+table, th, td {
+	border: 1px solid black;
+	margin: 5px;
+	width: 300px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.submit {
+	background-color: #EAE2E1;
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+}
